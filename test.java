@@ -1,3 +1,3 @@
 welcome to sonix human capital
 now batch 5
-total number of students in 50
+total number of students in 40
